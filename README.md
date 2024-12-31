@@ -1,7 +1,7 @@
 <!-- MarkdownLint-disable MD033 -->
 # Set-LineNumbers
 
-Sets the line numbers in a script.
+Adds, updates or removes line numbers in a script.
 
 ## Syntax
 
@@ -65,7 +65,7 @@ experience of many years.
 
 
 In case you have changed a script with line numbers and would like to renumber the script,
-you might simply call the invoke the `Set-LineNumbers` cmdlet again.
+you might simply invoke the `Set-LineNumbers` cmdlet again.
 The example below adds the comment "# Count the F's" to the script and renumbers it:
 
 ```PowerShell

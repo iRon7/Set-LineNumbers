@@ -70,7 +70,7 @@
 # # updated line numbers
 #
 # In case you have changed a script with line numbers and would like to renumber the script,
-# you might simply call the invoke the `Set-LineNumbers` cmdlet again.
+# you might simply invoke the `Set-LineNumbers` cmdlet again.
 # The example below adds the comment "# Count the F's" to the script and renumbers it:
 #
 #     "# Count the F's", $Numbered | Set-LineNumbers
