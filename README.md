@@ -1,7 +1,7 @@
 <!-- MarkdownLint-disable MD033 -->
 # Set-LineNumbers
 
-Set-LineNumbers
+Sets the line numbers in a script.
 
 ## Syntax
 
