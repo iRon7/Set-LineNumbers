@@ -2,7 +2,6 @@
 .Version 0.1.0
 .Guid 19631007-d664-4cb5-85ab-a532b893b3a3
 .Author Ronald Bode (iRon)
-.Description Adds, updates or removes line numbers in a script.
 .CompanyName PowerSnippets.com
 .Copyright Ronald Bode (iRon)
 .Tags Script Line Numbers Example Analyze
@@ -17,7 +16,7 @@
 #>
 
 # .SYNOPSIS
-# Set-LineNumbers
+# Adds, updates or removes line numbers in a script.
 #
 # .DESCRIPTION
 # Set-LineNumbers adds, update or remove line numbers to a powershell script
